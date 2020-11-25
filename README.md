@@ -4,5 +4,10 @@ It is designed with an objective of showing the UI skills. so there is no much i
 The UI is built according to the UI shown in the requirement pdf <br>
 React concepts like components, state, hooks, props, reactstrap, react-icons etc are showcased
 
+## Dashboard-UI-Images
+![LoginUI](https://github.com/ashishsv029/React-Login-dashboard/blob/master/dashboard-ui/dash-login.jpeg)
+<br/>
+![DashboardUI](https://github.com/ashishsv029/React-Login-dashboard/blob/master/dashboard-ui/dashboard.jpeg)
+
 
 
