@@ -1,0 +1,37 @@
+
+
+.between{
+    display: flex;
+    flex-direction: row;
+    margin-top: 1rem;
+    
+    font-weight: 70;
+}
+
+.between:before,
+.between:after{
+    content: "";
+    flex: 1 1;
+    border-top: 0.05rem solid grey;
+    margin: 13px;
+}
+body{
+   background-color:  #dfe7eb
+}
+
+@media (max-width:500px){
+ 
+    .info{
+        left:2rem;
+        display: none;
+    }
+    .growfeed{
+        height:"20vh"
+    }
+    .grow{
+        height: 100vh;
+        
+        background-color:red ;
+    }
+
+}

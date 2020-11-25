@@ -1,0 +1,2 @@
+.between{display:flex;flex-direction:row;margin-top:1rem;font-weight:70}.between:after,.between:before{content:"";flex:1 1;border-top:.05rem solid grey;margin:13px}body{background-color:#dfe7eb}@media (max-width:500px){.info{left:2rem;display:none}.growfeed{height:"20vh"}.grow{height:100vh;background-color:red}}
+/*# sourceMappingURL=main.173b3f1d.chunk.css.map */
